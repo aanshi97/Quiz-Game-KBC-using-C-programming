@@ -1,4 +1,4 @@
-# Quiz-Game-KBC-using-C-programming
+# Quiz Game KBC using C programming Language
 ## Output
 ![kbc](https://user-images.githubusercontent.com/64095824/94603486-f18ec800-02b3-11eb-9f59-cba8e7f41afa.png)
 
